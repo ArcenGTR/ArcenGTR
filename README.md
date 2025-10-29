@@ -42,6 +42,18 @@ MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC
 
 ## 💼 Featured Projects
 
+### 🎓 [USOS – Universal School Service System](https://github.com/ArcenGTR/USOS_IO)
+🧾 Application for managing school operations (lessons, grades, attendance, e-consents).  
+🧰 **Tech stack:** Angular, Python (Django)  
+
+---
+
+### 🎓 [PaletteGen](https://github.com/ArcenGTR/PaletteGenerator)
+🧾 An application designed for palette data processing using SOM, Hierarchical Clustering, and K-Means algorithms.
+🧰 **Tech stack:** Angular, Spring Boot, Keycloak, Nginx  
+
+---
+
 ### 🍺 [Studenckie Zamieszki Game (C++)](https://github.com/ArcenGTR/Studenckie-Zamieszki)
 🎮 A semester project inspired by the classic “Worms” game.  
 🧰 **Tech stack:** C++  
@@ -53,18 +65,6 @@ MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC
 🌐 Full-stack web application for online shopping.  
 🧰 **Tech stack:** Spring Boot, Angular, TypeScript  
 🚀 Features: product management, order handling, RESTful API, and secure authentication.  
-
----
-
-### 🎓 [USOS – Universal School Service System](https://github.com/ArcenGTR/USOS_IO)
-🧾 Application for managing school operations (lessons, grades, attendance, e-consents).  
-🧰 **Tech stack:** Angular, Python (Django)  
-
----
-
-### 🎓 [PaletteGen](https://github.com/ArcenGTR/PaletteGenerator)
-🧾 An application designed for palette data processing using SOM, Hierarchical Clustering, and K-Means algorithms.
-🧰 **Tech stack:** Angular, Spring Boot, Keycloak, Nginx  
 
 ---
 
