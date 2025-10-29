@@ -49,7 +49,7 @@ MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC
 ---
 
 ### 🎓 [PaletteGen](https://github.com/ArcenGTR/PaletteGenerator)
-🧾 An application designed for palette data processing using SOM, Hierarchical Clustering, and K-Means algorithms.
+🧾 An application designed for palette data processing using SOM, Hierarchical Clustering, and K-Means algorithms.  
 🧰 **Tech stack:** Angular, Spring Boot, Keycloak, Nginx  
 
 ---
