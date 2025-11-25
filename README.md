@@ -23,7 +23,7 @@ I came from **Ukraine** to study **Applied Computer Science** at **AGH Universit
 I’m passionate about **backend development**, **cloud technologies**, and **building scalable web applications**.  
 Currently, I’m looking for an **IT internship** where I can grow my skills and contribute to real-world projects.
 
-- 🌱 Currently learning **Spring Boot**, **Microservices**, and **Cloud Deployment (AWS, Docker, Kubernetes)**  
+- 🌱 Currently learning **Spring Boot**, **Microservices**, and **Cloud Deployment (AWS, Google Cloud, Docker, Kubernetes)**  
 - 💬 Ask me about **Java**, **Spring**, **Angular**, and **REST API design**  
 - 🌍 Speak **Polish (C1)** | **English (B2)** | **Ukrainian (Native)** | **Russian (Native)**  
 
@@ -35,7 +35,7 @@ Currently, I’m looking for an **IT internship** where I can grow my skills and
 ☕ Java • 🐍 Python • 🧩 C++ • 💡 TypeScript  
 
 **Frameworks & Tools:**  
-Spring Boot • Angular • Next.js • Docker • Kubernetes • Jenkins • Maven • AWS (Elastic Beanstalk, S3, RDS, CodePipeline) •  
+Spring Boot • Angular • Next.js • Docker • Kubernetes • Jenkins • Maven • AWS (Elastic Beanstalk, S3, RDS, CodePipeline) • Google Cloud (Compute Engine, Kubernetes Engine, Google Logging, Google Monitoring)
 MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC  
 
 ---
