@@ -40,7 +40,25 @@ MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC
 
 ---
 
-## 💼 Featured Projects
+### 💼 Featured Projects
+
+---
+
+### 🛰️ [Satellite Tracking & Orbit Prediction API](https://github.com/ArcenGTR/Satellites)
+
+🌍 A full-stack engine for real-time satellite monitoring and 3D orbital visualization. 
+
+🧰 **Tech stack:** Java 21, Spring Boot 3, Orekit (SGP4 Model), PostgreSQL, Angular 17, Three.js, Tailwind CSS 🚀 
+
+• Automated TLE data synchronization from CelesTrak.
+
+• Trajectory prediction system with parallel processing.
+
+• Interactive 3D rendering of satellite positions and ground tracks.
+
+• Secure user management with JWT and role-based access control.
+
+---
 
 ### 🎓 [USOS – Universal School Service System](https://github.com/ArcenGTR/USOS_IO)
 🧾 Application for managing school operations (lessons, grades, attendance, e-consents).  
@@ -58,13 +76,6 @@ MySQL • MariaDB • MongoDB • Keycloak • JUnit • MockMVC
 🎮 A semester project inspired by the classic “Worms” game.  
 🧰 **Tech stack:** C++  
 📚 Developed during the first semester of studies.  
-
----
-
-### 🛒 [E-commerce Web App (Spring Boot + Angular)](https://github.com/ArcenGTR/PetProjects/tree/main/eCommerceFullStackAngularSpringBoot)
-🌐 Full-stack web application for online shopping.  
-🧰 **Tech stack:** Spring Boot, Angular, TypeScript  
-🚀 Features: product management, order handling, RESTful API, and secure authentication.  
 
 ---
 
