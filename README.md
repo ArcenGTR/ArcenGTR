@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/illia-kuziv-05b746313/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/ArcenGTR">
+    <img src="https://img.shields.io/badge/gitlab-repo-orange?logo=gitlab" />
+  </a>
 </p>
 
 ---
